@@ -14,9 +14,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=LucasOliveiraLima&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=lkasslima&show_icons=true&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOliveiraLima&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasslima&layout=compact&theme=radical)
 
 ---
 
